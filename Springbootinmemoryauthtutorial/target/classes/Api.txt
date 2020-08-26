@@ -1,0 +1,5 @@
+SECURE PAGE
+	Url - http://localhost:8102/security/admin
+	
+GUEST PAGE
+	Url - http://localhost:8102/security/guest
